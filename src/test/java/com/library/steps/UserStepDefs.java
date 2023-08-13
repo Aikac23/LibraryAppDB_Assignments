@@ -71,7 +71,4 @@ public class UserStepDefs {
         Assert.assertEquals(expectedColumns,actualColumnList);
     }
 
-
-
-
 }
